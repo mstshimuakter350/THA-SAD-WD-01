@@ -1,0 +1,19 @@
+.site{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+    border-radius: 5px;
+}
+.my{
+    font-weight: 700;
+}
+.home{
+    list-style: none;
+     display: flex;
+    justify-content: center;
+    gap:50px;    
+}
+ .about:hover{
+    background-color: gray;
+ }
